@@ -1,6 +1,6 @@
 # CSE Course Assignment's Problem Solving With **Python**
 ## I will push all the problems and solutions of my university's Assignments Here. [[BracU]](https://www.bracu.ac.bd/) 
-![Python Logo](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg)
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python Logo" width="80" height="80">
 
 ---
 
